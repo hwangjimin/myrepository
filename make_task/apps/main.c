@@ -5,5 +5,6 @@ int main()
 {
 	test();
 	test2();
+	printf("changed");
 	return 0;
 }
